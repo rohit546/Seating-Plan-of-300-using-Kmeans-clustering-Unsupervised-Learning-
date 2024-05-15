@@ -1,0 +1,2 @@
+# Seating-Plan-of-300-using-Kmeans-clustering-Unsupervised-Learning-
+The university has 30 rooms available for conducting exams, and there are approximately 2400 to 2500 students across batches 19, 20, 21, and 22 in various domains, including computer science, artificial intelligence, business analytics, software engineering, and electrical engineering. Each room has a capacity of 30 to 35 students, 
